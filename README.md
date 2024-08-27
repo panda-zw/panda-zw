@@ -19,11 +19,14 @@
 
 ### A Few Projects I’m Proud Of 🛠️
 
-- **<a href="https://oono.events" target="_blank">🚀 Oono.events</a>**: An event platform that makes organizing and attending events as easy as liking a meme. Offline ticketing, online ticketing, and everything in between—because who doesn’t love options?
-- **<a href="https://oono.cloud" target="_blank">📦 Oono.cloud</a>**: A cloud storage platform designed to make your digital workflow as smooth as possible. Real-time updates, secure access, and peace of mind—what more could you ask for?
-- **<a href="https://oono.chat" target="_blank">💬 Oono.chat</a>**: A chat application that’s more secure than your grandma’s cookie jar. With end-to-end encryption and real-time updates, it’s the communication tool you didn’t know you needed.
-- **<a href="https://url.shortie.one" target="_blank">⛓️‍💥 URL Shortie</a>**: A URL shortener that makes long links short and sweet. Perfect for anyone who’s tired of copy-pasting monster URLs across the internet.
-- **<a href="https://kidsalert.co.zw" target="_blank">👦🏽 KidsAlert</a>**: A platform dedicated to child safety and awareness. Because keeping kids safe should be everyone’s priority, and technology can help make it happen.
+## A Few Projects I’m Proud Of 🛠️
+
+- **[🚀 Oono.events](https://oono.events)**: Simplifying event organization with online and offline ticketing options.
+- **[📦 Oono.cloud](https://oono.cloud)**: Secure cloud storage with real-time updates for a smooth digital workflow.
+- **[💬 Oono.chat](https://oono.chat)**: A real-time chat app for seamless and efficient communication.
+- **[⛓️‍💥 URL Shortie](https://url.shortie.one)**: A no-nonsense URL shortener that keeps your links neat and tidy.
+- **[👶 KidsAlert](https://kidsalert.co.zw)**: A platform focused on child safety and awareness in the digital age.
+
 
 ### What I'm Up To These Days 💼
 
@@ -34,15 +37,19 @@
 ### 🧰 Languages and Tools
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="FastApi" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg" />
+<img align="left" alt="Laravel" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
+<img align="left" alt="PHP" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
