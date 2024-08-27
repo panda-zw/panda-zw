@@ -19,20 +19,18 @@
 
 ### A Few Projects I’m Proud Of 🛠️
 
-## A Few Projects I’m Proud Of 🛠️
-
-- **[🚀 Oono.events](https://oono.events)**: Simplifying event organization with online and offline ticketing options.
-- **[📦 Oono.cloud](https://oono.cloud)**: Secure cloud storage with real-time updates for a smooth digital workflow.
-- **[💬 Oono.chat](https://oono.chat)**: A real-time chat app for seamless and efficient communication.
+- **[🚀 Oono Events](https://oono.events)**: Simplifying event organization with online and offline ticketing options.
+- **[📦 Oono Cloud](https://oono.cloud)**: Secure cloud storage with real-time updates for a smooth digital workflow.
+- **[💬 Oono Chat](https://oono.chat)**: A real-time chat app for seamless and efficient communication.
 - **[⛓️‍💥 URL Shortie](https://url.shortie.one)**: A no-nonsense URL shortener that keeps your links neat and tidy.
 - **[👶 KidsAlert](https://kidsalert.co.zw)**: A platform focused on child safety and awareness in the digital age.
 
 
 ### What I'm Up To These Days 💼
 
-- 💡 Figuring out how to automate everything so I can spend more time learning (or napping, let’s be honest).
-- 📚 Trying to master [Cool Tech Stack] while keeping my sanity intact.
-- 🌍 Dreaming up projects that could help make the world a little better—one line of code at a time.
+- 🔍 Exploring new ways to streamline workflows and automate the boring stuff.
+- 🚀 Sharpening my skills across the tech stack, from front-end finesse to back-end wizardry.
+- 💡 Cooking up new project ideas that blend innovation with practicality.
 
 ### 🧰 Languages and Tools
 
