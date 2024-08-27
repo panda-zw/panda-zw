@@ -58,7 +58,7 @@
 
 ### Let’s Connect! 🌐
 
-- 💼 **[LinkedIn]([https://linkedin.com/in/panashe-mapika](https://www.linkedin.com/in/panashe-mapika/))**: My “professional” face, because we all need one.
+- 💼 **[LinkedIn](https://www.linkedin.com/in/panashe-mapika/)**: My “professional” face, because we all need one.
 - 🌟 **[Personal Website](https://panashe.codes)**: A humble corner of the web where I showcase my work and pretend to be a serious developer.
 
 ---
