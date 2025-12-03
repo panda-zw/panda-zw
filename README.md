@@ -20,7 +20,7 @@
 ### A Few Projects I’m Proud Of 🛠️
 
 - **[📁 FixMyCV](https://fixmycv.app)**: Ai-Powered CV and Cover letter tailoring app.
-- **[🚀 Oono Events](https://oono.events)**: Simplifying event organization with online and offline ticketing options.
+- **[🚀 Oono Events](https://oono.co.zw)**: Simplifying event organization with online and offline ticketing options.
 - **[📦 Oono Cloud](https://oono.cloud)**: Secure cloud storage with real-time updates for a smooth digital workflow.
 - **[💬 Oono Chat](https://oono.chat)**: A real-time chat app for seamless and efficient communication.
 - **[⛓️‍💥 URL Shortie](https://url.shortie.one)**: A no-nonsense URL shortener that keeps your links neat and tidy.
