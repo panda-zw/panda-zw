@@ -19,11 +19,11 @@
 
 ### A Few Projects I’m Proud Of 🛠️
 
+- **[📁 Yosub App](https://yosub.app)**: An AI powered app that helps track, manage subscriptions.
+- **[📁 Soko Makert](https://sokomarket.app)**: Auctions and Free listings ecommerce platform.
 - **[📁 FixMyCV](https://fixmycv.app)**: Ai-Powered CV and Cover letter tailoring app.
 - **[🚀 Oono Events](https://oono.co.zw)**: Simplifying event organization with online and offline ticketing options.
-- **[📦 Oono Cloud](https://oono.cloud)**: Secure cloud storage with real-time updates for a smooth digital workflow.
-- **[💬 Oono Chat](https://oono.chat)**: A real-time chat app for seamless and efficient communication.
-- **[⛓️‍💥 URL Shortie](https://url.shortie.one)**: A no-nonsense URL shortener that keeps your links neat and tidy.
+- **[📦 Oono Cloud](https://app.oono.cloud)**: Secure cloud storage with real-time updates for a smooth digital workflow.
 - **[👶 KidsAlert](https://kidsalert.co.zw)**: A platform focused on child safety and awareness in the digital age.
 
 
@@ -39,6 +39,7 @@
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="Next.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NestJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="FastApi" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg" />
 <img align="left" alt="Laravel" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
